@@ -1,2 +1,5 @@
-# SPA, Practice with BootStrap 5. "PlatziCONF Hawaii",
+# SPA, "PlatziCONF Hawaii"
 ### Open it: https://arqphenry.github.io/spa-bootstrap/
+### Description:
+Practice with Bootstrap 5.6
+

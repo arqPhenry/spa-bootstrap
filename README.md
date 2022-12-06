@@ -1,2 +1,2 @@
-# spa-bootstrap,
-test it: https://arqphenry.github.io/spa-bootstrap/
+# SPA, Practice with BootStrap 5. "PlatziCONF Hawaii",
+### Open it: https://arqphenry.github.io/spa-bootstrap/
